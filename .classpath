@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/.svn/*" kind="src" path="src"/>
+	<classpathentry excluding="**/.svn/*" kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="libs/min3d.jar"/>
+	<classpathentry kind="lib" path="/Applications/android-sdk-mac_86/platforms/android-8/android.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
